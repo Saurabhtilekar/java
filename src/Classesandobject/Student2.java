@@ -6,6 +6,10 @@ public class Student2 {
 		// TODO Auto-generated method stub
 Student s1=new Student();
 s1.doprotected();
+//s1.doprivate();
+s1.dodefault();
+
+
 	}
 
 }
