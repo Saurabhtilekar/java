@@ -1,4 +1,4 @@
-package hashSet;
+package collection.Ex;
 
 public class HashMapEx {
 

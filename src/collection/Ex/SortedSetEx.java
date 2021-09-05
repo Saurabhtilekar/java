@@ -1,4 +1,4 @@
-package hashSet;
+package collection.Ex;
 
 import java.util.*;
 
